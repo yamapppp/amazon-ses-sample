@@ -1,0 +1,8 @@
+{
+  "Template": {
+    "TemplateName": "test",
+    "SubjectPart": "送信テスト",
+    "HtmlPart": "こっちはHTML<br>置き換えはこうやるらしい<br>{{str1}}",
+    "TextPart": "こっちはテキスト\n置き換えはこうやるらしい\n{{str1}}"
+  }
+}
